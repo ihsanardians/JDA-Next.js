@@ -25,7 +25,7 @@ export default function RootLayout({
               <Link href="/contact" className="mr-4 hover:text-gray-300">
                 Kontak
               </Link>
-              <Link href="/products/1" className="mr-4 hover:text-gray-300">
+              <Link href="/products" className="mr-4 hover:text-gray-300">
                 Produk
               </Link>
             </div>
